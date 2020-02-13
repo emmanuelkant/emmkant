@@ -1,0 +1,4 @@
+baseURL = "https://emmkant.com/"
+languageCode = "en-us"
+title = "My New Hugo Site Kant"
+theme = "ananke"
