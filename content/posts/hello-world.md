@@ -6,4 +6,4 @@ draft: false
 
 This is a my first post on hugo. I hope that will be successful.
 
-Yeah, apparently, works
+Yeah, apparently, works. Its hard or I'm dumb. I think is the second one.
